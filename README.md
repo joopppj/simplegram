@@ -9,7 +9,8 @@ My side project : A SNS iOS app. More details coming soon
 
 ## Getting Started
 
-download code button(green one) -> open with Xcode
+
+download simplegram.zip (ignore other files under this repo) -> open it -> open simplegram.xcodeproj with Xcode
 
 ## Compatibility
 
