@@ -14,7 +14,7 @@ download simplegram.zip (ignore other files under this repo) -> open it -> open 
 
 ## Compatibility
 
-This project is written in Swift 5/ SwiftUI 2.0 (with using lazygrid). So it requires Xcode 11 or newer to build and run.
+This project is written in Swift 5/ SwiftUI 2.0 (with using lazygrid). The newest version  of kinfisher needs Xcode 12 to import, so it requires Xcode 12 or newer to build and run.( using xcode 11 will cause compile error )
 
 ## Author
 
